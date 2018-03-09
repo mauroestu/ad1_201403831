@@ -17,3 +17,8 @@ var division(a,b)
 {
     return a/b;
 }
+
+var pow(x)
+{
+    return Math.pow(x);
+}
