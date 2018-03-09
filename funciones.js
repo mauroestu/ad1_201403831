@@ -22,3 +22,8 @@ var raiz(x)
 {
     return Math.sqrt(x);
 }
+
+var pow(x)
+{
+    return Math.pow(x);
+}
