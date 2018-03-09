@@ -17,3 +17,8 @@ var division(a,b)
 {
     return a/b;
 }
+
+var raiz(x)
+{
+    return Math.sqrt(x);
+}
