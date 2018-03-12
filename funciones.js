@@ -3,9 +3,10 @@ var suma(a,b)
     return a + b;
 }
 
-var producto(a,b)
+function producto(a,b,c)
 {
-    return a * b;
+    c = a * b;
+    return c;
 }
 
 var resta(a,b)
