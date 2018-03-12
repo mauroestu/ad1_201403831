@@ -3,9 +3,10 @@ var suma(a,b)
     return a + b;
 }
 
-var producto(a,b)
+function producto(a,b,c)
 {
-    return a * b;
+    c = a * b;
+    return c;
 }
 
 function modular(a,b)
@@ -21,6 +22,11 @@ var resta(a,b)
 var division(a,b)
 {
     return a/b;
+}
+
+var raiz(x)
+{
+    return Math.sqrt(x);
 }
 
 var pow(x)
